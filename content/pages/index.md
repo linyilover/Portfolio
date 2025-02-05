@@ -16,7 +16,7 @@ sections:
     title: >-
       Carolyne Denise Go Vicencio
     subtitle: >-
-I am pleased to share with you the work I have dedicated myself to over the past few years. Throughout my senior high school years, I have developed a series of websites using Bootstrap and my own unique designs. This portfolio showcases the skills, creativity, and commitment that I have invested in each project.
+      I am pleased to share with you the work I have dedicated myself to over the past few years. Throughout my senior high school years, I have developed a     series of websites using Bootstrap and my own unique designs. This portfolio showcases the skills, creativity, and commitment that I have invested in each project.
     styles:
       self:
         height: auto
